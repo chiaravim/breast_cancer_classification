@@ -26,4 +26,4 @@ The dataset used in this project is the publicly available **Wisconsin Breast Ca
 The Random Forest classification model achieved an accuracy of **97.18%**, with a **True Positive Rate** of **97.75%** and a **True Negative Rate** of **96.23%**. The TP/TN/FP/FN breakdown can be seen in the Confusion Matrix below.
 
 ## Confusion Matrix for Classification Results
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
