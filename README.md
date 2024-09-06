@@ -1,4 +1,4 @@
-#Breast Cancer Classification in R using Random Forest
+# Breast Cancer Classification in R using Random Forest
 
 **Key Skills**
 
@@ -7,11 +7,11 @@
 - Evaluation Metrics of Machine Learning Model
 - Git/GitHub Version Control
 
-#Project Overview
+# Project Overview
 
 This project shows an implementation, in R, of a Random Forest classification model. This is used to classify breast cancer tissue samples as either **Malignant (M)** or **Benign (B)**.
 
-#Dataset 
+# Dataset 
 
 The dataset used in this project is the publicly available **Wisconsin Breast Cancer Dataset (Diagnostic)**
 *Source: Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993). Breast Cancer Wisconsin (Diagnostic) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B
@@ -19,7 +19,7 @@ The dataset used in this project is the publicly available **Wisconsin Breast Ca
 ## Example of Biopsy Samples
 ![Biopsy Samples](biopsy_jpg.png)
 
-#Evaluation Metrics
+# Evaluation Metrics
 
 ## Model Accuracy
 
