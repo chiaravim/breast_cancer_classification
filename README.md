@@ -17,7 +17,7 @@ The dataset used in this project is the publicly available **Wisconsin Breast Ca
 *Source: Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993). Breast Cancer Wisconsin (Diagnostic) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B
 
 ## Example of Biopsy Samples
-![Biopsy Samples](biopsy_jpg.png)
+![Biopsy Samples](biopsy.png)
 
 # Evaluation Metrics
 
@@ -26,4 +26,4 @@ The dataset used in this project is the publicly available **Wisconsin Breast Ca
 The Random Forest classification model achieved an accuracy of **97.18%**, with a **True Positive Rate** of **97.75%** and a **True Negative Rate** of **96.23%**. The TP/TN/FP/FN breakdown can be seen in the Confusion Matrix below.
 
 ## Confusion Matrix for Classification Results
-![Confusion Matrix](images/confusion_matrix_bc.png)
+![Confusion Matrix](images/confusion_matrix.png)
