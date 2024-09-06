@@ -14,7 +14,7 @@ This project shows an implementation, in R, of a Random Forest classification mo
 # Dataset 
 
 The dataset used in this project is the publicly available **Wisconsin Breast Cancer Dataset (Diagnostic)**
-*Source: Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993). Breast Cancer Wisconsin (Diagnostic) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B
+- Source: Wolberg, W., Mangasarian, O., Street, N., & Street, W. (1993). Breast Cancer Wisconsin (Diagnostic) [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5DW2B
 
 ## Example of Biopsy Samples
 ![Biopsy Samples](biopsy.png)
