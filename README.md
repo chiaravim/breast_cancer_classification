@@ -1,5 +1,12 @@
 # Breast Cancer Classification in R using Random Forest
 
+**Key Skills**
+
+- Data Preprocessing
+- Random Forest Model in R
+- Evaluation Metrics of Machine Learning Model
+- Git/GitHub Version Control
+
 # Project Overview
 
 This project shows an implementation, in R, of a Random Forest classification model. This is used to classify breast cancer tissue samples as either **Malignant (M)** or **Benign (B)**.
@@ -20,10 +27,3 @@ The Random Forest classification model achieved an accuracy of **97.18%**, with 
 
 ## Confusion Matrix for Classification Results
 ![Confusion Matrix](confusion_matrix.png)
-
-**Key Skills**
-
-- Data Preprocessing
-- Random Forest Model in R
-- Evaluation Metrics of Machine Learning Model
-- Git/GitHub Version Control
